@@ -1,2 +1,2 @@
-### Porfolio Website
+### Portfolio Website
 ##### https://thegautamjain.me/
